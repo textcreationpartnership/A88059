@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters from Lieutenant General Crumwels quarters. His march from Barwicke to the City of Edenburgh, with the Marquesse of Arguile. And the transactions of the treaty in Scotland. With letters to his Excellency the Lord Generall Fairfax, concerning the great petition comming from the north, to the Parliament of England. And the state of the whole agreement in Scotland. Also the surrender of Barwick and Carlisle.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88059</idno>
+            <idno type="STC">Wing L1779</idno>
+            <idno type="STC">Thomason E466_7</idno>
+            <idno type="STC">ESTC R205222</idno>
+            <idno type="EEBO-CITATION">99864651</idno>
+            <idno type="PROQUEST">99864651</idno>
+            <idno type="VID">162295</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88059)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162295)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E466[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters from Lieutenant General Crumwels quarters. His march from Barwicke to the City of Edenburgh, with the Marquesse of Arguile. And the transactions of the treaty in Scotland. With letters to his Excellency the Lord Generall Fairfax, concerning the great petition comming from the north, to the Parliament of England. And the state of the whole agreement in Scotland. Also the surrender of Barwick and Carlisle.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Smithurst, neer Pye-corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] ye 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1600-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162295:1" rendition="simple:additions"/>
+            <p>LETTERS FROM Lieutenant General Crumwels Quarters. HIS March from Barwicke to the City of Edenburgh, with the Marqueſſe of Arguile.</p>
+            <p>AND THE Tranſactions of the Treaty in Scotland.</p>
+            <p>WITH Letters to his Excellency the Lord Ge<g ref="char:EOLhyphen"/>nerall Fairfax, concerning the great Peti<g ref="char:EOLhyphen"/>tion comming from the North, to the Parliament of England.</p>
+            <p>And the ſtate of the whole Agreement in SCOTLAND.</p>
+            <p>Alſo the ſurrender of Barwick and Carliſle.</p>
+            <p>
+               <add>8ber y<hi rend="sup">e</hi> 9<hi rend="sup">th</hi>
+               </add> LONDON, Printed for R. Smithurſt, neer Pye-corner 1648,</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162295:2"/>
+            <pb n="1" facs="tcp:162295:2"/>
+            <opener>
+               <salute>SIR</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">U</seg>Pon the Treaty between the Marqueſſe of Ar<g ref="char:EOLhyphen"/>guile, and Monro, all is agreed, and confirmed by Lanericke, The Scots are disbanding all but Arguiles, and the power of that Kingdom is to bee under his command. And the Engliſh that joyned with the Revolted Scots are to bee ſent to Lieutenant Generall Crumwell, There is to be a Parliament in Scotland in January next, in the interim, none are to ſit in the Committee of Eſtates that engaged with Duke Hamilton: And when the Parliament is called, none is to be capable of ſitting that joyned in the Ingagement againſt England, and the Kirke of Scotland. And when the Parliament meets, they are to judge of all tranſ<g ref="char:EOLhyphen"/>actions, and ſenſure miſcariages concerning the State, and the Kirke to judge of Eccleſiaſticall matters. In the interim the Marqueſſe of Arguile and thoſe that proteſted againſt the Re<g ref="char:EOLhyphen"/>volting Scots are to order the State affaires, and the Kirke for the Church. The Marqueſſe of Arguile entred this Towne on Saturday laſt, 700 of the other Scots marched out, and are diſ<g ref="char:EOLhyphen"/>banded, Arguile forthwith ſurrendered it to Lieut. Gen. Crum<g ref="char:EOLhyphen"/>well, who hath placed Col. Overtans Regiament in it, and the Lieut. Collonell is Depury Governour at preſent, and Orders are gone out for the ſurrender of Carliſle. The Marqueſſe of Ar<g ref="char:EOLhyphen"/>guile hath invited Lieut, Gen. Crumwell to march with him to Edinburgh, whither they are now going, But the Lieut. Gen. intends not to ſtay, but forthwith to return backe for England. There are many thouſand hands which have ſigned a Petition to come to the Parliament from theſe parts to deſire them to looke to themſelves, and cleare their power, and protect the peoples intereſt againſt all their enemies, which will be now ſuddenly brought to the Parliament.</p>
+            <closer>
+               <dateline>Barwicke <date>2 Octo. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis incloſed is the return to your Summons which is civill but how cordiall, I know not. I have ſent back this mor<g ref="char:EOLhyphen"/>ning
+<pb n="2" facs="tcp:162295:3"/>for a Paſſe for Col. Bright, and the Scout-Maſter-Generall, and doe expect a return before night. I intend this day to fall Barwick upon the South-weſt, and to remain there untill foure in the afternoon, where I ſhall expect Col. Bright, and doe in<g ref="char:EOLhyphen"/>tend from thence to march towards Norham Caſtle, and quarter there, except I receive your orders to the contrary, conceiving that to bee much more advantageous for the gaining intelli<g ref="char:EOLhyphen"/>gence, of the affaires of Scotland, and to correſpond with the well-affected neareſt thoſe parts, beſides, I conceive our ſo near approach to the Borders, may be a good Argument to the ill<g ref="char:EOLhyphen"/>affected, to return a good anſwer to you, by your Commiſſi<g ref="char:EOLhyphen"/>oners. I doe very much deſire your honeſt Scotch men, who in caſe the Paſſe be denyed, may be very ſerviceable in joyning intelligence, which is the life of our buſineſſe, and without which we ſhall but act lamely in all things.</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>
+                  <hi>I am</hi> Your moſt faithfull and humble Servant, <hi>Lambert.</hi>
+               </signed>
+               <dateline>Hagerſton <date>16 Septem. 1648,</date> 
+               </dateline>
+            </closer>
+            <trailer>Directed for the Right Honourable L. G. Cromwell.</trailer>
+         </div>
+         <div type="letter">
+            <head>A Copy of a Letter to his Excellency the Lord <hi>Fairfax,</hi> from the Gariſions of <hi>Newcaſtle</hi> and <hi>Tinmouth.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>WE make bold being preſt in ſpirit, to repreſent to you, as the ground of our fears, ſo the matter of our deſires. It hath pleaſed God after much plottings and endeavours of the old and new Malignants, to Crown the Army under your con<g ref="char:EOLhyphen"/>duct with great ſucceſſe; and although God by that calls for juſtice, little or none is done, to the great grief, as to the King<g ref="char:EOLhyphen"/>dome in generall, ſo unto us in particular; and leſſe is like to he done, unleſſe your Excellency preſently appear to doe ſo me<g ref="char:EOLhyphen"/>thing, and the Army with you, to be a leading cauſe to us; we wait for it. Inſtead of Juſtice, behold a Treaty with them for Peace, that God ſpeaks no Peace to: and inſtead of owning juſt petitions, they are laid aſide, and not countenanced; ſome imployed in the Treaty, not long ſince voted the Army Rebels;
+<pb n="3" facs="tcp:162295:3"/>what that prognoſticates in the future, when they have power, we leave to your Excellency to judge. We can hardly forbear but Petition the Parliament; (remembring our ingagement at New-market Heath) but we are very unwilling to doe any thing without your Excellencies plea<g ref="char:EOLhyphen"/>ſure, being deſirous in all good things to be led by you: and being con<g ref="char:EOLhyphen"/>fident (as formerly, ſo ſtill) you will ſtand by the Kingdom and the Ar<g ref="char:EOLhyphen"/>my in their juſt Rights. So hoping you will ſo far honour us, as to make a favourable conſtruction of our expreſſions, and give an anſwer to en<g ref="char:EOLhyphen"/>courage us to joyn with the well-affected, in their Petitions, for their juſt Rights and Priviledges. We ſubſcribe our ſelves in the behalf of the Of<g ref="char:EOLhyphen"/>ficers and Souldiers of this Gariſon and Tinmoutb.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Lieut. Col. Paul Hobſon.</item>
+                     <item>Major Cobbet,</item>
+                     <item>Cap. Clark</item>
+                     <item>Cap. Hutton, &amp;c.</item>
+                  </list>
+               </signed>
+               <dateline>Newcaſtle <date>22 Septemb. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To his Excellency the Lord Fairfax, Generall of all the Forces raiſed by the Parliament, for the Common-wealth of England.</head>
+            <opener>
+               <salute>May it pleaſe Your Excellency,</salute>
+            </opener>
+            <p>SEing it hath pleaſed God to exalt you to a place of Eminency and truſt in the Common-wealth of England, for the Redemption thereof from Captivity and Bondage, and to that End God having alſo bleſſed you and us with proſperous Succeſſe and Conqueſts, (be<g ref="char:EOLhyphen"/>yond the yee of humane ſenſe) both in the late and preſent Wars, o<g ref="char:EOLhyphen"/>ver yours and the peoples moſt inveterate Enemies; and ſeeing that we and all the well-affected of the Land ventured our lives, and all that was deare unto us, not ſparing chearfully and thankefully to paſſe through all dangers and difficulties with you attending that Engagement; we are imboldened now at laſt (having looked round about us, and finding neither Your Excellency, the Army, nor the People, yet anſwered as to thoſe ends) to make our humble Addreſſe unto your Excellency in this Juncture of time, wherein we appre<g ref="char:EOLhyphen"/>hend, that the blood that hath bin ſpilt, The Conqueſts God hath crowned you withall, the treaſure and wealth of the People expen<g ref="char:EOLhyphen"/>ded, is all upon the point of being rendred in vain and of none effect: For, to the ſorrow of our hearts we find, that even thoſe particulars of Common Right and Freedome, for which we took up Arms and ſtill continue them, are not regarded, though by way of humble Pe<g ref="char:EOLhyphen"/>tition lately preſented to the Houſe of Commons by the well-affe<g ref="char:EOLhyphen"/>cted
+<pb n="4" facs="tcp:162295:4"/>in and about London and inſtead of anſwering thoſe their juſt de<g ref="char:EOLhyphen"/>ſires of Freedom and Safety to the People, we find a Treaty with our conquered Enemy (who hath not ſo much as himſelfe to Treat for, and on whom we muſt, and that of right, lay the guilt of al the blood that hath bin ſpilt in theſe wars) is now choſen, and vigorouſly pur<g ref="char:EOLhyphen"/>ſued; and Compoſitions of eaſie rates made with the new Delin<g ref="char:EOLhyphen"/>quents for the late Rebellions and Treaſons againſt the Common<g ref="char:EOLhyphen"/>wealth; though we juſtly expected that their Lands ſhould be made over to us, and the whole Souldiery for our Arreares: and no juſtice likely to be done to perfideous Hambleton, or to his Adherents, who invaded our Land, and made war upon us: Nor upon the Earle of Holland whom the Houſe of Lords lately and moſt unjuſtly voted out of his impriſonment in Warwick-caſtle: nor yet upon the Lord Go<g ref="char:EOLhyphen"/>ring, Lord Capell, Lord Louthbury, Laughorne, Powel, Poyer, &amp;c. Neither any thing done to thoſe inſolent Common Councel men of London, that durſt joyn with the Prince, while in Armes againſt the Parlia<g ref="char:EOLhyphen"/>ment and people, in his Deſires: and petition the Parliament for a Ceſſation of Armes, even with Hambleton himſelfe, after the Houſe of Commons had voted him and his Army Enemies; and thoſe Engliſh<g ref="char:EOLhyphen"/>men that invited them into England, Rebells and Traytors, and not<g ref="char:EOLhyphen"/>withſtanding the ſame, the Houſe of Lords abetted and joyned with him and his Army, by publiſhing his poyſonous Declaration by a ſpeciall Order of their owne Houſe, to ſeduce the People into his Rebellion againſt the Common-wealth: yet all theſe wickedneſſes muſt be ſalved up with a Perſonal Treaty, putting our Capitall and Bloody Enemy into an equall Ballance with all the people and their Repreſentatives, which is more then he had from his Coronation, as appeareth by his Oath, which the Parliament hath often pub<g ref="char:EOLhyphen"/>lickly declared to the Common-wealth; ſo that of neceſſity our In<g ref="char:EOLhyphen"/>dempnity, our Lives and Freedoms are left at his mercy, and what mercy when our enemy is received, and the Adverſe Party advanced, can be expected, we leave to your Excellency to judge. Wherefore May it pleaſe your Excellency, wee having ſeriouſly weighed the foreſaid Petition intituled The humble Petition of Thouſands Well-affected Perſons inhabiting the City of London, Weſtminſter, the Burrough of Southwark Hamblets, and places Adjacent, Preſented to the Parliament Sep. 11: 1648. To<g ref="char:EOLhyphen"/>gether with a ſecond Petition indevoured to be preſented Septem. 13 Intituled, The humble Petition of the preſenters of the late large Petition, &amp;c.
+<pb n="5" facs="tcp:162295:4"/>As alſo a Letter from our dear Friends of the Garriſons of Newcaſtle and Tinmouth, and finding the common ſafety of us all wrapt up in thoſe deſires; wee cannot in duty to God, to our own Native Country, and in honour to your Excel<g ref="char:EOLhyphen"/>lencies ſafety, and all that have adhered unto you, but reſent the ſaid Deſires as our owne: and humbly implore, That your Excellency will bee pleaſed ſo to appeare before us in the cauſe of the People, even in the midſt of theſe our dan<g ref="char:EOLhyphen"/>gers and fears, that wee and all the People, with the Gene<g ref="char:EOLhyphen"/>rations after us, by your Excellencies happy conduct, may have juſt cauſe to bleſſe God on your behalfe: And that the ſame may come to paſſe, ſhall ever bee the faithfull prayers and endevours of</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your Excellencies moſt humble ſervants, wholly devoted to live and dye with you therein.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Gratulatory Letter from divers Officers of the Army, at the Leagure before Barwick, to the late pre<g ref="char:EOLhyphen"/>ſenters of the Large Petition, of September 11. 1648.</head>
+            <opener>
+               <salute>Gentlemen, and Fellow Commoners,</salute>
+            </opener>
+            <p>AS we all languiſh and groan under the inſupportable weight of the publique oppreſſion of the Land, ſo is it our duty to ſtruggle and ſtrive joyntly together for the relief of each other; for to our neighbour we are bound as to our ſelves; that we are all the ſons of one Nation, and brethren by Nature, whoſe ſeverall weal and woe is included and wrapt up in the fold of one Common-wealth; that we muſt even ſtand or fall together. We (though we have our ſwords in our hands) can<g ref="char:EOLhyphen"/>not be without you, nor you without us, in this day of publique calami<g ref="char:EOLhyphen"/>ty, and of this (we doe not queſtion, but) as we with you, ſo you with
+<pb n="6" facs="tcp:162295:5"/>us are ſufficiently ſenſible, which to all conſcientious and judicious men may be ſufficient to tye us firmly together in one Common bond of u<g ref="char:EOLhyphen"/>nity againſt all our oppreſſors, and oppoſers of freedome whatſoever, but in this we give you the preheminence; for though we are with you in heart and affection for the principles of common Right and freedom to the Land; yet we muſt give you the right hand of fellowſhip in ap<g ref="char:EOLhyphen"/>pearing and going before us therein. For to the great refreſhment of our ſpirits we finde, that God hath preſerved yet thouſands for us, that have not bowed their knee to Baal, and are yet (after all theſe afflicti<g ref="char:EOLhyphen"/>ons and tryals) firme and untainted with the poyſonous principles of Oppreſſion and Tyranny, as by your two late Petitions appeareth: for which, as we are bound in duty to render the glory thereof unto God, ſo in all humane and Civill obligation wee cannot chuſe but render our gratefull and cordiall reſpects unto you for the ſame, and muſt profeſſe it our duty to atteſt the ſame with our Swords, in and for thoſe juſt prin<g ref="char:EOLhyphen"/>ciples (in your Petition contained) to live and dye with you, and for you And as you have been an encouragement unto us, to raiſe up our ſpirits and put us upon action, ſo let us be an incouragement unto you to pur<g ref="char:EOLhyphen"/>ſue with the utmoſt vigour and might, thoſe happy beginnings of yours, and we ſhall by Gods aſſiſtance ſecond you with our utmoſt power and might in your greateſt ſtraits and difficulties againſt all oppoſers what<g ref="char:EOLhyphen"/>ſoever. And as a teſtimony of our real intentions therein, we have ſent you ſome copies of ſome Papers, which we have intended in purſuance of your Petitions: And we ſhall ſay no more at preſent, but that we are,</p>
+            <closer>
+               <salute>Gentlemen,</salute> 
+               <signed>Your moſt affectionate Friends and Servants</signed>
+               <dateline>From the Leagure before Barwick <date>30 Sep. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
